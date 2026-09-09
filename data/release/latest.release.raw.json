@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2949590,
       "digest": "sha256:41d4cedb530be55a26e519953e362fa90849fe9e29cc17c5f543b0d785b10bfb",
-      "download_count": 175,
+      "download_count": 177,
       "created_at": "2026-03-23T02:37:19Z",
       "updated_at": "2026-03-23T02:37:34Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-Linux-amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 2885632,
       "digest": "sha256:ec08b8795f96b8b90a6ca3868b4b5fcba1e040c46edb00dde527136b3c5882e7",
-      "download_count": 27,
+      "download_count": 29,
       "created_at": "2026-03-23T02:38:56Z",
       "updated_at": "2026-03-23T02:39:09Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-windows-386.exe"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 2753437,
       "digest": "sha256:0361c91be37e6720526617372857b954f6d010cb7107e13fe363d1d6cd6898a9",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-03-23T02:37:46Z",
       "updated_at": "2026-03-23T02:37:50Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-Windows-386.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3187712,
       "digest": "sha256:92adbdc16e62220dbd5673824b6ec689d21d3888e1853a9ee05a2b0fd5009240",
-      "download_count": 55,
+      "download_count": 57,
       "created_at": "2026-03-23T02:38:58Z",
       "updated_at": "2026-03-23T02:39:12Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-windows-amd64.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 3036246,
       "digest": "sha256:7dd6fdfec9ee9c8633607231323be23e7f59c089715c45df6946614e21cc6a18",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-03-23T02:37:50Z",
       "updated_at": "2026-03-23T02:37:54Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-Windows-amd64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 8159232,
       "digest": "sha256:de457d9a437821bd89294325ddc1f845eed61560399c9d5c9a7a54e0eaeb5d07",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-03-23T02:39:01Z",
       "updated_at": "2026-03-23T02:39:23Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-windows-arm64.exe"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 2914664,
       "digest": "sha256:85dc63193c0df1afc0a1ac390ed75956696d78c9c3ca448be5f17f81d24adc29",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-03-23T02:37:54Z",
       "updated_at": "2026-03-23T02:37:58Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-Windows-arm64.zip"
