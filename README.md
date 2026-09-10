@@ -12,6 +12,18 @@ powerful and cross-platform ls 🌈
 x install g
 ```
 
+## Code insight
+
+Total: **20,297** lines of code across **135** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 13,864 | 753 | 1,480 | 119 |
+| Json | 4,188 | 0 | 2 | 6 |
+| Css | 614 | 0 | 98 | 1 |
+| Sh | 574 | 65 | 97 | 8 |
+| Python | 426 | 1 | 64 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/Equationzhao/g>
@@ -37,20 +49,11 @@ x install g
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 9 | 4 | 0 | 0 | 8 |
+| last60d | 2026-07-12 | 0 | 10 | 5 | 0 | 0 | 10 |
 | 90d | 2026-06-12 | 0 | 10 | 7 | 1 | 0 | 10 |
+| last180d | 2026-03-14 | 1 | 24 | 7 | 11 | 15 | 25 |
 | 360d | 2025-09-15 | 1 | 27 | 7 | 20 | 16 | 33 |
-
-## Code size
-
-Total: **20,297** lines of code across **135** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 13,864 | 753 | 1,480 | 119 |
-| Json | 4,188 | 0 | 2 | 6 |
-| Css | 614 | 0 | 98 | 1 |
-| Sh | 574 | 65 | 97 | 8 |
-| Python | 426 | 1 | 64 | 1 |
+| last720d | 2024-09-20 | 5 | 63 | 8 | 30 | 20 | 111 |
 
 ## Release assets
 
@@ -93,4 +96,4 @@ Install metadata for g lives in the [x-cmd/install](https://github.com/x-cmd/ins
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:29:08Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:47:09Z._
