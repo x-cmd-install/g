@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 3039908,
       "digest": "sha256:f20d6a904e2dd41cbdb386c4d835f076d2aa471ceef9af7ae1eee8a0eddf4426",
-      "download_count": 96,
+      "download_count": 97,
       "created_at": "2026-03-23T02:38:17Z",
       "updated_at": "2026-03-23T02:38:34Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2949590,
       "digest": "sha256:41d4cedb530be55a26e519953e362fa90849fe9e29cc17c5f543b0d785b10bfb",
-      "download_count": 186,
+      "download_count": 188,
       "created_at": "2026-03-23T02:37:19Z",
       "updated_at": "2026-03-23T02:37:34Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-Linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2725944,
       "digest": "sha256:76e1b487f18e84a087a737fd0f3a1ca5e6b2471f3717f9fe07360f8b903fb4dc",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-03-23T02:38:44Z",
       "updated_at": "2026-03-23T02:38:49Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-linux-arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8323234,
       "digest": "sha256:9d63e904a64916abe070b00594d9acab46b55e0bbf3d4545967126cf090b77f5",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-03-23T02:38:49Z",
       "updated_at": "2026-03-23T02:39:05Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-linux-loong64"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 2951124,
       "digest": "sha256:f6e354d7e642697d4c4eaada6de85957806c03c9a02921162d1b8770d72d0474",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-03-23T02:39:22Z",
       "updated_at": "2026-03-23T02:39:27Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g_0.31.2_amd64.deb"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 2627804,
       "digest": "sha256:d895afc34bae26389556c64c4f6e9ffd04c199b46beff8cdbc32cf28532ba7c5",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-03-23T02:39:29Z",
       "updated_at": "2026-03-23T02:39:36Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g_0.31.2_arm64.deb"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 2119440,
       "digest": "sha256:7013798540fc6bcf069cc9dade3f4f15b64ca9721e6ea634404ca4932da95ff1",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-03-23T02:39:31Z",
       "updated_at": "2026-03-23T02:39:37Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g_0.31.2_loong64.deb"
