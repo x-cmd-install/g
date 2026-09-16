@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2949590,
       "digest": "sha256:41d4cedb530be55a26e519953e362fa90849fe9e29cc17c5f543b0d785b10bfb",
-      "download_count": 193,
+      "download_count": 194,
       "created_at": "2026-03-23T02:37:19Z",
       "updated_at": "2026-03-23T02:37:34Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-Linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2725944,
       "digest": "sha256:76e1b487f18e84a087a737fd0f3a1ca5e6b2471f3717f9fe07360f8b903fb4dc",
-      "download_count": 12,
+      "download_count": 14,
       "created_at": "2026-03-23T02:38:44Z",
       "updated_at": "2026-03-23T02:38:49Z",
       "browser_download_url": "https://github.com/equationzhao/g/releases/download/v0.31.2/g-linux-arm64"
